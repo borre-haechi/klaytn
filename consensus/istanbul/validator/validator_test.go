@@ -3,8 +3,8 @@ package validator
 import (
 	"testing"
 
-	"github.com/docker/docker/pkg/testutil/assert"
 	"github.com/klaytn/klaytn/common"
+	"github.com/klaytn/klaytn/pkg/testutil/assert"
 )
 
 func TestCalcSeed(t *testing.T) {

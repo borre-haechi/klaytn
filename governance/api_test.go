@@ -3,9 +3,9 @@ package governance
 import (
 	"testing"
 
-	"github.com/docker/docker/pkg/testutil/assert"
 	"github.com/klaytn/klaytn/common"
 	"github.com/klaytn/klaytn/params"
+	"github.com/klaytn/klaytn/pkg/testutil/assert"
 	"github.com/klaytn/klaytn/storage/database"
 )
 

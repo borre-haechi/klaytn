@@ -35,7 +35,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/docker/docker/pkg/reexec"
+	"github.com/klaytn/klaytn/pkg/reexec"
 )
 
 func NewTestCmd(t *testing.T, data interface{}) *TestCmd {

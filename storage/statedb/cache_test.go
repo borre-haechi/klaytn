@@ -25,7 +25,7 @@ import (
 
 	"github.com/klaytn/klaytn/common"
 
-	"github.com/docker/docker/pkg/testutil/assert"
+	"github.com/klaytn/klaytn/pkg/testutil/assert"
 )
 
 // TestNewTrieNodeCache tests creating all kinds of supported trie node caches.
